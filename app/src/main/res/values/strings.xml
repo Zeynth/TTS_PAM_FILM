@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cinemate</string>
+    <string name="back">Back</string>
+    <string name="more_options">More</string>
+    <string name="name">Name</string>
+    <string name="personality">Personality</string>
+    <string name="adopt_me">Adopt Me</string>
+    <string name="sex">Sex</string>
+    <string name="age">Age</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgetpassword">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="noacc">No Account?</string>
+    <string name="signup">Sign Up</string>
+    <string name="createacc">Create Account</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+</resources>
